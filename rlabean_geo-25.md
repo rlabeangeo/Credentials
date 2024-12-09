@@ -14,7 +14,7 @@
 
 [Rangefront Mining Consultants](https://www.rangefront.com)
 
-**[New World Resources](https://newworldres.com/)** -- Antler/Javelin VMS Copper Projects
+**[New World Resources](https://newworldres.com/)** - Antler/Javelin VMS Copper Projects
 *June 2024 - December 2024*
 
 - Visit drill rigs to meet with drillers and retrieve core
@@ -36,7 +36,7 @@ and holding all individuals accountable to participate in a safe workplace
 
 [Rangefront Mining Consultants](https://www.rangefront.com)
 
-[Nevada Gold Mines] (<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) - Carlin Trend - Mineral Resource Management - Growth Team
+[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) - Carlin Trend - Mineral Resource Management - Growth Team
 
 *October 2023 - May 2024*
 
@@ -58,7 +58,7 @@ and holding all individuals accountable to participate in a safe workplace
 
 [Rangefront Mining Consultants](https://www.rangefront.com)
 
-[Nevada Gold Mines] (<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) - Carlin Trend - Exploration Team
+[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) - Carlin Trend - Exploration Team
 
 *August 2022 - October 2023*
 

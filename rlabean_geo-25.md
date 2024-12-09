@@ -1,20 +1,23 @@
 # **Robert LaBean**
 
-### Exploration Geologist
+**Exploration Geologist**
 
-:telephone_receiver: 775.441.9928 | :envelope: [rlabeangeo314@gmail.com](mailto:rlabeangeo314@gmail.com) | [Robert LaBean | LinkedIn](https://www.linkedin.com/in/robert-t-labean/)
+:telephone_receiver: 775.441.9928
+
+:envelope: [rlabeangeo314@gmail.com](mailto:rlabeangeo314@gmail.com)
+
+[Robert LaBean | LinkedIn](https://www.linkedin.com/in/robert-t-labean/)
 
 ---
 
 ## Professional Experience
 
----
-
 ### Exploration Geologist
 
 [Rangefront Mining Consultants](https://www.rangefront.com)
 
-**[New World Resources](https://newworldres.com/)** - Antler/Javelin VMS Copper Projects
+**[New World Resources](https://newworldres.com/)** | Antler/Javelin VMS Copper Projects
+
 *June 2024 - December 2024*
 
 - Visit drill rigs to meet with drillers and retrieve core
@@ -36,7 +39,7 @@ and holding all individuals accountable to participate in a safe workplace
 
 [Rangefront Mining Consultants](https://www.rangefront.com)
 
-[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) - Carlin Trend - Mineral Resource Management - Growth Team
+[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) | Carlin Trend - Mineral Resource Management - Growth Team
 
 *October 2023 - May 2024*
 
@@ -58,7 +61,7 @@ and holding all individuals accountable to participate in a safe workplace
 
 [Rangefront Mining Consultants](https://www.rangefront.com)
 
-[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) - Carlin Trend - Exploration Team
+[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) | Carlin Trend - Exploration Team
 
 *August 2022 - October 2023*
 
@@ -92,7 +95,7 @@ and holding all individuals accountable to participate in a safe workplace
 
 ### Substation Maintenance Specialist
 
-[CDE Lightband}(https://cdelightband.com/)]
+[CDE Lightband](https://cdelightband.com/)]
 
 *November 2011 - July 2019*
 
@@ -108,8 +111,6 @@ and holding all individuals accountable to participate in a safe workplace
 
 ## Education
 
----
-
 [University of Tennessee - Knoxville](https://www.utk.edu/)
 
 *August 2019 - July 2022*
@@ -120,8 +121,6 @@ Geology Concentration | Statistics Minor
 ---
 
 ## Licenses & Certifications
-
----
 
 - MSHA Metal/Non-Metal Surface Miner — M17190199
 

@@ -14,7 +14,7 @@
 
 [Rangefront Mining Consultants](https://www.rangefront.com)
 
-**New World Resource** -- Antler/Javelin VMS Copper Projects
+**[New World Resources](https://newworldres.com/)** -- Antler/Javelin VMS Copper Projects
 
 - Visit drill rigs to meet with drillers and retrieve core
 - Align track and truck mounted rigs using hand compass and electronic gyrocompass

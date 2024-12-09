@@ -10,7 +10,9 @@
 
 ---
 
-### Exploration Geologist [Rangefroont Mining Consultants](https://www.rangefront.com)
+### Exploration Geologist
+
+[Rangefront Mining Consultants](https://www.rangefront.com)
 
 **New World Resource** -- Antler/Javelin VMS Copper Projects
 

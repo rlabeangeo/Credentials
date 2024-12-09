@@ -95,7 +95,7 @@ and holding all individuals accountable to participate in a safe workplace
 
 ### Substation Maintenance Specialist
 
-[CDE Lightband](https://cdelightband.com/)]
+[CDE Lightband](https://cdelightband.com/)
 
 *November 2011 - July 2019*
 

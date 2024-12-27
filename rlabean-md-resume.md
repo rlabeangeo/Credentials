@@ -21,7 +21,7 @@
 *June 2024 - December 2024*
 
 - Engage with drill crews on a daily basis to monitor drilling progress, retrieve core, and facilitate communication
--etween geologists and drillers
+etween geologists and drillers
 - Quickly evaluate geology and possible mineralization of core to provide a quick-log to senior geologists
 - Align track and truck mounted rigs using hand compass and electronic gyrocompass
 - Drive trucks and ATVs off-road in a remote desert environment
@@ -59,10 +59,10 @@ sedimentary hosted, low sulfidation epithermal deposits
 - Assist with interpretation of core geology into regional geology
 - Input geological characteristics into AcQuire database
 - Use Excel to create workbooks to test for proper sampling procedures to catch sampling errors and deficiencies prior to packaging
--nd shipment of samples
+nd shipment of samples
 - Use Excel to create workbooks that automatically create cut-sheets drastically reducing post logging office work
 - Manage sampling and QA/QC of core to determine geochemical characteristic of core and to maintain proper NI 43-101
--ompliance
+ompliance
 - Train new geologists on NGM standard operating procedures, and local and regional geology of the Carlin Trend
 - Promote a safety centered workplace by attending and organizing safety meetings, rectifying any hazardous conditions or actions,
 and holding all individuals accountable to participate in a safe workplace
@@ -81,14 +81,14 @@ and holding all individuals accountable to participate in a safe workplace
 - Safely and responsibly operate vehicles off-road and on minimally maintained trails
 - Present daily geological findings to senior staff and assist with determining direction of drill programs
 - Log RC chips and diamond drilled core to determine geology, structure, mineralization, and alteration of the subsurface within
--arlin type, sedimentary hosted, low sulfidation epithermal deposits
+arlin type, sedimentary hosted, low sulfidation epithermal deposits
 - Maintain a logging rate of at least 200 feet of core per day
 - Assist with interpretation of core geology into regional geology
 - Identify structural features on down-hole televiewer data using WellCAD software
 - Manage sampling and QA/QC of core to determine geochemical characteristic of core and to maintain proper NI 43-101
--ompliance
+ompliance
 - Promote a safety centered workplace by attending and organizing safety meetings, rectifying any hazardous conditions or actions,
--nd holding all individuals accountable to participate in a safe workplace
+nd holding all individuals accountable to participate in a safe workplace
 - Initiated a strict data inspection and validation campaign to ensure database was correctly updated
 - Engage in field mapping and sampling campaigns to find and expand surface geological/geochemical anomalies
 - Work alone or with a small team in remote areas of NV with limited communications coverage
@@ -112,7 +112,7 @@ and holding all individuals accountable to participate in a safe workplace
 - Integrated and digitized decades worth of paper files that helped the department manage and maintain needed records
 - Safely operated heavy equipment and trucks including bucket trucks, forklift, excavator, man lift, and others as needed
 - Promoted a safety centered workplace by attending safety training, properly maintaining and using appropriate PPE, and directing
--orning safety meetings and following all OSHA safety rules and regulations
+orning safety meetings and following all OSHA safety rules and regulations
 - Worked in all weather conditions up to 18 hours per shift to complete work or restore electricity during storm restoration
 - Drove large service trucks on and off road to access remote areas of service to inspect or repair equipment
 - Used hand/power tools and specialized testing equipment to design, build, inspect, and maintain electrical distribution equipment
@@ -135,7 +135,3 @@ Geology Concentration | Statistics Minor
 - MSHA Metal/Non-Metal Surface Miner — M17190199
 
 *Issued 01/04/2024 - Expires 01/04/2025*
-
-- Wilderness First Aid
-
-*Scheduled February 2025*

@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper,sans]{moderncv}
+\documentclass[11pt,a4paper,sans]{moderncv}
 \moderncvstyle{banking}
 \moderncvcolor{black}
 \nopagenumbers{}
@@ -30,7 +30,7 @@
 \par\addvspace{#1}}
 \begin{document}
 \makecvtitle
-\vspace*{-10mm}
+\vspace*{-16mm}
 \begin{center}\textbf{Geologist}\end{center}
 %\vspace*{-5mm}
 \begin{center}
@@ -49,33 +49,23 @@
 \section{Professional Experience} 
 \vspace{-2mm}
 
-\customcventry{06/2024 ‐ 12/2024}{{\color{blue}\href{https://www.rangefront.com/}{(Rangefront Mining Consultants)}}}{Exploration Geologist,}{Kingman,AZ}{}{\color{blue}\href{https://newworldres.com/projects/antler-copper-project-arizona-usa/}{\textbf{New World Resources | Antler/Javelin VMS Project}}}
+\customcventry{06/2024 ‐ 12/2024}{{\color{blue}\href{https://www.rangefront.com/}{(Rangefront Mining Consultants)}}}{Exploration Geologist,}{Kingman,AZ}{}{\textbf{New World Resources | Antler/Javelin VMS Project}
 \vspace{-1mm}
 {\begin{itemize}[noitemsep, leftmargin=0.6cm, label={\textbullet}]
 \item Engage with drill crews on a daily basis to monitor drilling progress, retrieve core, and facilitate communication between geologists and drillers
-\item Quickly evaluate geology and possible mineralization of core to provide a quick-log to senior geologists
 \item Align track and truck mounted rigs using hand compass and electronic gyrocompass
 \item Drive trucks and ATVs off-road in a remote desert environment
 \item Perform geological mapping and sampling in rugged environments alone and with other geologists
 \item Stake mining claims using GPS, maps, and compass to orient in the wilderness and meet up with employees at the end of the project
 \item Log diamond drilled core to determine geology, structure, mineralization, and alteration of the subsurface within strongly metamorphosed volcanic rocks
 \item Perform geotechnical/geophysical measurements on core including XRF, magnetic susceptibility, specific gravity and rock quality designation
-\item Maintain a logging rate that allows logging and sampling of all core drilled the previous shift
 \item Assist with interpretation of core geology into regional geology
 \item Manage sampling and QA/QC of core to determine geochemical characteristic of core and potential grade
 \item Developed Python script to track expenses and automatically create an expense report for filing with employer
-\item Set up a standalone server to host network licenses for programs and created a VPN connection for geologists to access on-site resources while working remotely
-\item Develop Excel spreadsheet to automatically import and organize pXRF data for easier viewing and data manipulation
-\item Package, ship, and submit core samples to assay lab
-\item Cut core samples to prepare for shipping
-\item Archive and store core samples for later review
-\item Safely operate skid steer within fenced in yard to move pallets of core to and from storage
+\item Set up a standalone server to host network licenses for programs and created a VPN connection for geologists to acces on-site resources while working remotely
+\end{itemize}}}
 
-
-\end{itemize}}
-
-
-\customcventry{10/2023 ‐ 05/2024}{{\color{blue}\href{https://www.rangefront.com/}{(Rangefront Mining Consultants)}}}{Junior Geologist,}{Carlin, NV}{}{\color{blue}\href{https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx}{\textbf{Nevada Gold Mines | Carlin Trend | Mineral Resource Management | Growth Team}}}
+\customcventry{10/2023 ‐ 05/2024}{{\color{blue}\href{https://www.rangefront.com/}{(Rangefront Mining Consultants)}}}{Junior Geologist,}{Carlin, NV}{}{\textbf{Nevada Gold Mines | Carlin Trend | Mineral Resource Management | Growth Team}
 \vspace{-1mm}
 {\begin{itemize}[noitemsep, leftmargin=0.6cm, label={\textbullet}]
 \item Log diamond drilled core to determine geology, structure, mineralization, and alteration of the subsurface within Carlin type, sedimentary hosted, low sulfidation epithermal deposits 
@@ -87,11 +77,9 @@
 \item Manage sampling and QA/QC of core to determine geochemical characteristic of core and to maintain proper NI 43-101 compliance
 \item Train new geologists on NGM standard operating procedures, and local and regional geology of the Carlin Trend
 \item Promote a safety centered workplace by attending and organizing safety meetings, rectifying any hazardous conditions or actions, and holding all individuals accountable to participate in a safe workplace
-\end{itemize}}
+\end{itemize}}}
 
-\clearpage
-
-\customcventry{02/2022 ‐ 10/2023}{{\color{blue}\href{https://www.rangefront.com/}{(Rangefront Mining Consultants)}}}{Junior Geologist,}{Carlin, NV}{}{\color{blue}\href{https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx}{\color{blue}\textbf{Nevada Gold Mines | Carlin Trend | Exploration Team}}}
+\customcventry{02/2022 ‐ 10/2023}{{\color{blue}\href{https://www.rangefront.com/}{(Rangefront Mining Consultants)}}}{Junior Geologist,}{Carlin, NV}{}{\textbf{Nevada Gold Mines | Carlin Trend | Exploration Team}
 \vspace{-1mm}
 {\begin{itemize}[noitemsep, leftmargin=0.6cm, label={\textbullet}]
 \item Coordinate daily with drillers, drill services crews, environmental services, and geotechs to facilitate core retrieval from drill rigs
@@ -108,7 +96,7 @@
 \item Initiated a strict data inspection and validation campaign to ensure database was correctly updated
 \item Engage in field mapping and sampling campaigns to find and expand surface geological/geochemical anomalies
 \item Work alone or with a small team in remote areas of NV with limited communications coverage
-\end{itemize}}
+\end{itemize}}}
 
 % \newpage
 

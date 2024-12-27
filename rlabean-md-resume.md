@@ -20,20 +20,30 @@
 
 *June 2024 - December 2024*
 
-- Visit drill rigs to meet with drillers and retrieve core
+- Engage with drill crews on a daily basis to monitor drilling progress, retrieve core, and facilitate communication
+-etween geologists and drillers
+- Quickly evaluate geology and possible mineralization of core to provide a quick-log to senior geologists
 - Align track and truck mounted rigs using hand compass and electronic gyrocompass
-- Perform final downhole survey using gyrocompass
-- Drive vehicles off-road in the remote desert with little to no communications coverage
-- Travel on foot through the remote desert with little to no communication coverage
-- Log diamond drilled core to determine geology, structure, mineralization, and alteration of the subsurface within strongly
--etamorphosed volcanic rocks
-- Complete the logging of all core brought in throughout the day
-- Perform all geotechnical/geophysical measurements on core including XRF, magnetic susceptibility, specific gravity and rock
--uality designation
+- Drive trucks and ATVs off-road in a remote desert environment
+- Perform geological mapping and sampling in rugged environments alone and with other geologists
+- Stake mining claims using GPS, maps, and compass to orient in the wilderness and meet up with employees at
+he end of the project
+- Log diamond drilled core to determine geology, structure, mineralization, and alteration of the subsurface
+ithin strongly metamorphosed volcanic rocks
+- Perform geotechnical/geophysical measurements on core including XRF, magnetic susceptibility, specific gravity
+nd rock quality designation
+- Maintain a logging rate that allows logging and sampling of all core drilled the previous shift
 - Assist with interpretation of core geology into regional geology
-- Manage sampling and QA/QC of core to determine geochemical characteristic of core
-- Promote a safety centered workplace by attending and organizing safety meetings, rectifying any hazardous conditions or actions,
-and holding all individuals accountable to participate in a safe workplace
+- Manage sampling and QA/QC of core to determine geochemical characteristic of core and potential grade
+- Developed Python script to track expenses and automatically create an expense report for filing with employer
+- Set up a standalone server to host network licenses for programs and created a VPN connection for geologists
+o access on-site resources while working remotely
+- Develop Excel spreadsheet to automatically import and organize pXRF data for easier viewing and data
+anipulation
+- Package, ship, and submit core samples to assay lab
+- Cut core samples to prepare for shipping
+- Archive and store core samples for later review
+- Safely operate skid steer within fenced in yard to move pallets of core to and from storage
 
 ### Junior Geologist
 

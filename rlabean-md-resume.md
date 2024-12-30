@@ -26,10 +26,13 @@ etween geologists and drillers
 - Align track and truck mounted rigs using hand compass and electronic gyrocompass
 - Drive trucks and ATVs off-road in a remote desert environment
 - Perform geological mapping and sampling in rugged environments alone and with other geologists
+- Safely travel solo through mountainous environments with little communications support while avoiding injury
+from dangerous animals and/or situations
 - Stake mining claims using GPS, maps, and compass to orient in the wilderness and meet up with employees at
 he end of the project
 - Log diamond drilled core to determine geology, structure, mineralization, and alteration of the subsurface
 ithin strongly metamorphosed volcanic rocks
+- Orient core to determine top/bottom of hole in-situ
 - Perform geotechnical/geophysical measurements on core including XRF, magnetic susceptibility, specific gravity
 nd rock quality designation
 - Maintain a logging rate that allows logging and sampling of all core drilled the previous shift

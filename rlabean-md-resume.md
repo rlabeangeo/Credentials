@@ -12,11 +12,61 @@
 
 ## Professional Experience
 
+### Geologist II
+
+**[Dahrouge Geological Consultants](https://www.dahrouge.com/)**
+
+September 2025 - Present
+
+**[Southwest Critical Materials](https://southwestcritical.com/)** | Pumpkin Hollow Project | Copper Skarn 
+
+November 2025 - Present
+
+- Management of surface and underground diamond drilling program.
+  - Perform initial mobilization/landing inspections of all drilling equipment to ensure it meets client operating and safety standards.
+  - Locate, survey, and stake new surface drill pads to prepare to rehabilitation or construction.
+  - Coordinate and schedule with Operations in regard to development or rehabilitation of upcoming drill pads/stations to ensure maximum drill utilization between station changes. 
+  - Inspect and sign off on pre-mobilization drill pad/station inspections to ensure proper and safe facilities and utilities available for drilling.
+  - Conduct daily rig visits to ensure compliance with client safety protocols and drilling standards/plan.
+  - Make drill-hole extension/completion calls based on geology, drilling conditions, and drill plan.
+  - Report to client on daily surface/underground drilling activities detailing geology, overall safety compliance, and drilling conditions of previous 24 hours.
+  - Inspect and approve down-hole surveys, using IMDEXHUB, personally supervising surveys at the drill rig, when needed.
+  - Inspect and approve drill shift reports, using Krux, to ensure correct billing of drilling activities to the client. 
+- Assist in development of core logging, sampling, and QA/QC Standard Operating Procedures (SOP's) and safety standards.
+- Training new core loggers in the core logging process ensuring they understand how to safely and accurately complete their duties.
+- Performed geotechnical measurements including RQD, Q Prime.
+- Performed core logging within copper skarn deposit from underground and surface drilling to further the expansion of underground workings and eventual restart of mining operations as well as the planned open pit project. 
+- Leading daily safety meetings with employees, clients, and contractors to further reinforce the overall safety culture. 
+- Maintain communication with the client about the geology, drilling process, and overall goal of the program. 
+- Develop numerous Excel sheets to assist with automated tracking of drilling and core logging activities. 
+- Use Trimble products to survey final drill collars, and pad boundaries to track overall surface disturbance. 
+- Use ArcGIS and QGIS to create maps visualizing construction and drilling activities, and to keep track of and measure total surface disturbance for reporting.
+- Supervision and daily management of 4-8 employees in the absence of Senior Geologist/Project Manager.
+
+**[NioCorp](https://www.niocorp.com/)** | Elk Creek Project | Carbonatite Hosted Rare Earth Elements
+
+Septmeber 2025 - October 2025
+
+- Logged core within Carbonatite deposit to further the portal sinking project.
+- Performed geotechnical measurements including RQD, Q Prime, and Point Load Testing. 
+
 ### Exploration Geologist
 
-[Rangefront Mining Consultants](https://www.rangefront.com)
+**[Donlin Gold LLC](https://novagold.com/donlin-gold/project-overview/)** | Donlin Gold Project | Intrusion Related Epithermal Gold
 
-**[New World Resources](https://newworldres.com/)** | Antler/Javelin VMS Copper Projects
+March 2025 – September 2025
+
+- Logged diamond drill core to identify lithology, structure, alteration, and mineralization in sedimentary host rocks with dike/sill intrusions.
+- Performed geotechnical and geophysical measurements to support resource modeling and engineering.
+- Maintained 90+ meter per day logging rate, keeping pace with drilling to prevent core backlog.
+- Managed sampling workflows and QA/QC to ensure accurate geochemical analysis.
+- Consistently followed safety protocols in remote field environments.
+
+### Exploration Geologist
+
+**[Rangefront Mining Consultants](https://www.rangefront.com)**
+
+[New World Resources](https://newworldres.com/) | Antler/Javelin Projects | Cu/Zn/Pb/Ag/Au Volcanogenic Massive Sulfide
 
 *June 2024 - December 2024*
 
@@ -50,9 +100,9 @@ anipulation
 
 ### Junior Geologist
 
-[Rangefront Mining Consultants](https://www.rangefront.com)
+**[Rangefront Mining Consultants](https://www.rangefront.com)**
 
-[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) | Carlin Trend - Mineral Resource Management - Growth Team
+[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) | Carlin Trend - Mineral Resource Management - Growth Team | Carlin type Gold
 
 *October 2023 - May 2024*
 
@@ -72,9 +122,9 @@ and holding all individuals accountable to participate in a safe workplace
 
 ### Junior Geologist
 
-[Rangefront Mining Consultants](https://www.rangefront.com)
+**[Rangefront Mining Consultants](https://www.rangefront.com)**
 
-[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) | Carlin Trend - Exploration Team
+[Nevada Gold Mines](<https://www.barrick.com/English/operations/nevada-gold-mines/default.aspx>) | Carlin Trend - Exploration Team | Carlin type Gold
 
 *August 2022 - October 2023*
 
@@ -96,35 +146,35 @@ nd holding all individuals accountable to participate in a safe workplace
 - Engage in field mapping and sampling campaigns to find and expand surface geological/geochemical anomalies
 - Work alone or with a small team in remote areas of NV with limited communications coverage
 
-### Exploration Technician
-
-[Nyrstar](https://www.nyrstar.com/)
-
-*February 2021 - October 2021*
-
-- Maintain and organize core archives
-- Cut, package, and ship core to assay lab for sampling
-- Safely operate equipment such as core saw and telehandler
-
-### Substation Maintenance Specialist
-
-[CDE Lightband](https://cdelightband.com/)
-
-*November 2011 - July 2019*
-
-- Integrated and digitized decades worth of paper files that helped the department manage and maintain needed records
-- Safely operated heavy equipment and trucks including bucket trucks, forklift, excavator, man lift, and others as needed
-- Promoted a safety centered workplace by attending safety training, properly maintaining and using appropriate PPE, and directing
-orning safety meetings and following all OSHA safety rules and regulations
-- Worked in all weather conditions up to 18 hours per shift to complete work or restore electricity during storm restoration
-- Drove large service trucks on and off road to access remote areas of service to inspect or repair equipment
-- Used hand/power tools and specialized testing equipment to design, build, inspect, and maintain electrical distribution equipment
-
+% ### Exploration Technician
+% 
+% [Nyrstar](https://www.nyrstar.com/)
+% 
+% *February 2021 - October 2021*
+% 
+% - Maintain and organize core archives
+% - Cut, package, and ship core to assay lab for sampling
+% - Safely operate equipment such as core saw and telehandler
+% 
+% ### Substation Maintenance Specialist
+% 
+% [CDE Lightband](https://cdelightband.com/)
+% 
+% *November 2011 - July 2019*
+% 
+% - Integrated and digitized decades worth of paper files that helped the department manage and maintain needed records
+% - Safely operated heavy equipment and trucks including bucket trucks, forklift, excavator, man lift, and others as needed
+% - Promoted a safety centered workplace by attending safety training, properly maintaining and using appropriate PPE, and directing
+% orning safety meetings and following all OSHA safety rules and regulations
+% - Worked in all weather conditions up to 18 hours per shift to complete work or restore electricity during storm restoration
+% - Drove large service trucks on and off road to access remote areas of service to inspect or repair equipment
+% - Used hand/power tools and specialized testing equipment to design, build, inspect, and maintain electrical distribution equipment
+% 
 ---
 
 ## Education
 
-[University of Tennessee - Knoxville](https://www.utk.edu/)
+**[University of Tennessee - Knoxville](https://www.utk.edu/)**
 
 *August 2019 - July 2022*
 
@@ -136,5 +186,5 @@ Geology Concentration | Statistics Minor
 ## Licenses & Certifications
 
 - MSHA Metal/Non-Metal Surface Miner — M17190199
-
-*Issued 01/04/2024 - Expires 01/04/2025*
+- MSHA Metal/Non-Metal Underground Miner — M17190199
+*Issued 11/21/2025 - Expires 11/21/2026*

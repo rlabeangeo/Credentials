@@ -146,30 +146,30 @@ nd holding all individuals accountable to participate in a safe workplace
 - Engage in field mapping and sampling campaigns to find and expand surface geological/geochemical anomalies
 - Work alone or with a small team in remote areas of NV with limited communications coverage
 
-\\   ### Exploration Technician
-\\   
-\\   [Nyrstar](https://www.nyrstar.com/)
-\\   
-\\   *February 2021 - October 2021*
-\\   
-\\   - Maintain and organize core archives
-\\   - Cut, package, and ship core to assay lab for sampling
-\\   - Safely operate equipment such as core saw and telehandler
-\\   
-\\   ### Substation Maintenance Specialist
-\\   
-\\   [CDE Lightband](https://cdelightband.com/)
-\\   
-\\   *November 2011 - July 2019*
-\\   
-\\   - Integrated and digitized decades worth of paper files that helped the department manage and maintain needed records
-\\   - Safely operated heavy equipment and trucks including bucket trucks, forklift, excavator, man lift, and others as needed
-\\   - Promoted a safety centered workplace by attending safety training, properly maintaining and using appropriate PPE, and directing
-\\   orning safety meetings and following all OSHA safety rules and regulations
-\\   - Worked in all weather conditions up to 18 hours per shift to complete work or restore electricity during storm restoration
-\\   - Drove large service trucks on and off road to access remote areas of service to inspect or repair equipment
-\\   - Used hand/power tools and specialized testing equipment to design, build, inspect, and maintain electrical distribution equipment
-\\   
+[\\]   ### Exploration Technician
+[\\]   
+[\\]   [Nyrstar](https://www.nyrstar.com/)
+[\\]   
+[\\]   *February 2021 - October 2021*
+[\\]   
+[\\]   - Maintain and organize core archives
+[\\]   - Cut, package, and ship core to assay lab for sampling
+[\\]   - Safely operate equipment such as core saw and telehandler
+[\\]   
+[\\]   ### Substation Maintenance Specialist
+[\\]   
+[\\]   [CDE Lightband](https://cdelightband.com/)
+[\\]   
+[\\]   *November 2011 - July 2019*
+[\\]   
+[\\]   - Integrated and digitized decades worth of paper files that helped the department manage and maintain needed records
+[\\]   - Safely operated heavy equipment and trucks including bucket trucks, forklift, excavator, man lift, and others as needed
+[\\]   - Promoted a safety centered workplace by attending safety training, properly maintaining and using appropriate PPE, and directing
+[\\]   orning safety meetings and following all OSHA safety rules and regulations
+[\\]   - Worked in all weather conditions up to 18 hours per shift to complete work or restore electricity during storm restoration
+[\\]   - Drove large service trucks on and off road to access remote areas of service to inspect or repair equipment
+[\\]   - Used hand/power tools and specialized testing equipment to design, build, inspect, and maintain electrical distribution equipment
+   
 ---
 
 ## Education
